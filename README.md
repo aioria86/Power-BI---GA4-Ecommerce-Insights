@@ -12,7 +12,6 @@ El reporte cuenta con una navegación lateral personalizada y 5 módulos de aná
 ### 1. Visión General (Overview) & Salud del Negocio
 Monitorización de KPIs de alto nivel (Ingresos, Transacciones, Tasa de Conversión) y análisis geográfico.
 ![Overview](img/overview.png)
-*(Asegúrate de subir la imagen como 'overview.png' a la carpeta img)*
 
 ### 2. Adquisición y Calidad de Tráfico
 Evaluación de canales de marketing. Incluye matrices de calor para identificar qué fuentes traen usuarios de mayor valor (LTV) y menor rebote.
